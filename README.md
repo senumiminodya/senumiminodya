@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Senumi Minodya</h1>
 <h3 align="center">A passionate student learning Software Engineering</h3>
 
-- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **React-Native, ML, DS**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **Java, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **senumiminodya456@gmail.com**
 
